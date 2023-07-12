@@ -18,14 +18,11 @@ const Footer = () => {
         </LinkColumn>
       </LinkList>
       <SocialIconsContainer>
-        <CompanyContainer>
-          <Slogan>Innovating one project at a time</Slogan>
-        </CompanyContainer>
         <SocialContainer>
-          <SocialIcons href='https://github.com'>
+          <SocialIcons href='https://github.com/JoaoCoutinho777'>
             <AiFillGithub size="3rem" />
           </SocialIcons>
-          <SocialIcons href='https://linkedin.com'>
+          <SocialIcons href='https://www.linkedin.com/in/jo%C3%A3o-coutinho-599778101/'>
             <AiFillLinkedin size="3rem" />
           </SocialIcons>
         </SocialContainer>

@@ -46,10 +46,10 @@ const Timeline = () => {
     <Section id='about'>
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        Fueled by my love for coding and a fascination with web development, I embarked on my journey to become a React Front-End Developer. I dived into online tutorials, courses, and hands-on projects, building a strong foundation in HTML, CSS, and JavaScript.
+        Fueled by my love for coding and a fascination with web development, I embarked on my journey to become a React Front-End Developer. I dived into online tutorials, and hands-on projects, building a strong foundation in HTML, CSS, and JavaScript.
         Eager to expand my skill set, I dived into the world of React. Through self-study, I gained a solid understanding of React's core concepts, including components, state management, and virtual DOM. I practiced building simple applications, honing my skills and deepening my understanding of React's powerful ecosystem.
-        With an appetite for growth, I continued to expand my technical proficiency. I explored popular React libraries and frameworks such as Redux, React Router, and Styled Components, integrating them into my projects to enhance functionality and create visually stunning interfaces.
-        As I grew in confidence and skill, I started building my portfolio. I crafted personal projects that showcased my creativity and ability to solve real-world problems using React. Each project became an opportunity to learn, experiment, and demonstrate my capabilities as a React Front-End Developer.
+        With an appetite for growth, I continued to expand my technical proficiency. I explored popular React libraries and frameworks such as Redux, React Router, and Styled Components, integrating them into my projects to enhance functionality.
+        As I grew in confidence and skill, I started building my portfolio. Each project became an opportunity to learn, experiment, and demonstrate my capabilities as a React Front-End Developer.
         I am actively seeking opportunities to apply my skills and contribute to impactful projects. I am excited to collaborate with teams, leverage my creativity, and deliver exceptional user experiences that drive business success.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
