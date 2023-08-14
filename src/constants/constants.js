@@ -2,8 +2,8 @@ export const projects = [
   {
     title: 'iSum',
     description: "iSum is a modern Ai-based web app designed to summarize articles using React, Vite, Tailwingd, Redux Toolkit and OpenAI.",
-      image: '/images/iSum.JPG',
-      tags: ['RTK', 'Tailwind', 'React', 'Vite', 'Redux', 'OpenAI', 'Rapid'],
+    image: '/images/iSum.JPG',
+    tags: ['RTK', 'Tailwind', 'React', 'Vite', 'Redux', 'OpenAI', 'Rapid'],
     source: 'https://github.com/JoaoCoutinho777/iSum',
     visit: 'https://i-sum.vercel.app/',
     id: 0,
@@ -20,12 +20,20 @@ export const projects = [
   {
     title: 'Publi App',
     description: "Twitter like app focused on books recommendations exchange. Was created to be a place where book enthusiastics can share your thoughts on their current readings as well as future readings and literary recommendations",
-      image: '/images/publi.JPG',
-      tags: ['React', 'Tailwind', 'Next', 'Prisma', 'Mongo', 'NextAuth'],
+    image: '/images/publi.JPG',
+    tags: ['React', 'Tailwind', 'Next', 'Prisma', 'Mongo', 'NextAuth'],
     source: 'https://github.com/JoaoCoutinho777/publi',
     visit: 'https://publi-mocha.vercel.app/',
     id: 2,
   },
+  {
+    title: 'Capputeeno',
+    description: "E-commerce for the sale of mugs and t-shirts that should have the following functionalities",
+    image: '/images/capputeeno.JPG',
+    tags: ['React', 'Nextjs', 'Typescript', 'GraphQL'],
+    source: 'https://github.com/JoaoCoutinho777/frontend-challenge',
+    id: 3
+  }
 ];
 
 export const TimeLineData = [
