@@ -26,14 +26,14 @@ export const projects = [
     visit: 'https://publi-mocha.vercel.app/',
     id: 2,
   },
-  {
+/*   {
     title: 'Capputeeno',
-    description: "E-commerce for the sale of mugs and t-shirts that should have the following functionalities",
+    description: "E-commerce for the sale of mugs and t-shirts that should have the following functionalities: Product catalog with pagination; Filter products by category; Search by product name; Add and remove products from cart; Checkout page",
     image: '/images/capputeeno.JPG',
     tags: ['React', 'Nextjs', 'Typescript', 'GraphQL'],
     source: 'https://github.com/JoaoCoutinho777/frontend-challenge',
     id: 3
-  }
+  } */
 ];
 
 export const TimeLineData = [

@@ -47,7 +47,7 @@ const Timeline = () => {
     <Section id='about'>
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        Hello there! I'm João, a ReactJS Front-End Developer with a passion for turning lines of code into captivating user experiences. 🚀 My journey into the world of web development has been an exhilarating adventure, where curiosity and creativity collide. Armed with a solid foundation in ReactJS, I'm on a constant quest to learn, grow, and contribute my skills to projects that make a difference. With a love for clean code and an eye for detail, I'm excited to bring fresh ideas and a collaborative spirit to every challenge. Join me as I embark on this coding odyssey, crafting the digital landscapes of tomorrow with innovation and enthusiasm.
+        Hello there! I'm João, a ReactJS Front-End Developer with a passion for turning lines of code into captivating user experiences. 🚀 My journey into the world of web development has been an exhilarating adventure, where curiosity and creativity collide. I'm on a constant quest to learn, grow, and contribute my skills to projects that make a difference. With a love for clean code and an eye for detail, I'm excited to bring fresh ideas and a collaborative spirit to every challenge. Join me as I embark on this coding odyssey, crafting the digital landscapes of tomorrow with innovation and enthusiasm.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
