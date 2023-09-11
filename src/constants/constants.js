@@ -26,6 +26,15 @@ export const projects = [
     visit: 'https://publi-mocha.vercel.app/',
     id: 2,
   },
+  {
+    title: 'Codeland',
+    description: "Developed in React JS with Material UI 5 Codeland is a web app where you can watch videos related to programming. Created to be a place where I could focused only on study subjects related to programming without outside distractions like random videos suggestions that always appear on youtube or other platforms.",
+    image: '/images/CodeLand.JPG',
+    tags: ['React', 'Rapid API', 'MUI'],
+    source: 'https://github.com/JoaoCoutinho777/codeland',
+    visit: 'https://64fef14bef58145dcda46c4b--resplendent-tiramisu-7d7801.netlify.app/',
+    id: 2,
+  },
 /*   {
     title: 'Capputeeno',
     description: "E-commerce for the sale of mugs and t-shirts that should have the following functionalities: Product catalog with pagination; Filter products by category; Search by product name; Add and remove products from cart; Checkout page",
